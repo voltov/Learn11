@@ -1,0 +1,10 @@
+{
+  "ISBN": "978-0-201-03801-3",
+  "title": "The C Programming Language",
+  "authors": ["Brian W. Kernighan", "Dennis M. Ritchie"],
+  "numberOfPages": 288,
+  "originalPublisher": "Prentice Hall",
+  "countryOfLocalization": "Japan",
+  "localPublisher": "ASCII Corporation",
+  "datePublished": "1989-05-01"
+}

@@ -1,0 +1,8 @@
+{
+  "ISBN": "978-0-201-03801-3",
+  "title": "The C Programming Language",
+  "authors": ["Brian W. Kernighan", "Dennis M. Ritchie"],
+  "numberOfPages": 288,
+  "publisher": "Prentice Hall",
+  "datePublished": "1988-04-01"
+}
